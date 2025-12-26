@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, eu sou Igor Ferraz
 
-<!--
-**igoorferraz23/igoorferraz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cientista de Dados | Machine Learning | Python | SQL  
 
-Here are some ideas to get you started:
+- 📊 Trabalho com análise e modelagem de dados  
+- 🤖 Interesse em ML, estatística e engenharia de dados  
+- 🚀 Sempre aprendendo coisas novas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- Python, Pandas, NumPy, Scikit-learn
+- SQL, BigQuery
+- Git & GitHub
+- Power BI
+
+### 📫 Como me encontrar
+- LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/igoorferraz/)

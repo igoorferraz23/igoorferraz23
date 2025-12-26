@@ -13,4 +13,4 @@
 - Power BI
 
 ### 📫 Como me encontrar
-- LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/igoorferraz/)
+- LinkedIn: [https://linkedin.com/in/igoorferraz](https://www.linkedin.com/in/igoorferraz/)
